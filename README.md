@@ -1,16 +1,16 @@
-### Hi there 👋
+### Halo semua! 👋
 
-<!--
-**H4rfu1/H4rfu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+😄 Perkenalkan nama saya **Moh. Fahrul Hafidh**.
 
-Here are some ideas to get you started:
+🔭 Saya seorang intern **Web Developer** di [Tokolabs](https://www.tokolabs.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 Saya bertanggung jawab pada bembuatan aplikasi terbaru salah satu anak perusahaannya. [TOuta](https://touta.co.id).
+
+🤔📫 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/moh-fahrul-hafidh-2192751b2/)ku ya.
+
+<p align="left">
+<a href="https://github.com/h4rfu1">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=h4rfu1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=h4rfu1&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
