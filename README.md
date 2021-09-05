@@ -1,12 +1,12 @@
-### Halo semua! 👋
+# Halo semua! 👋
 
-😄 Perkenalkan nama saya **Moh. Fahrul Hafidh**.
+Perkenalkan nama saya **Moh. Fahrul Hafidh**. 😄
 
 🔭 Saya seorang intern **Web Developer** di [Tokolabs](https://www.tokolabs.com/).
 
-👯 Saya bertanggung jawab pada bembuatan aplikasi terbaru salah satu anak perusahaannya. [TOuta](https://touta.co.id).
+👯 Saya bertanggung jawab pada bembuatan aplikasi terbaru salah satu anak perusahaannya : [Touta](https://touta.co.id).
 
-🤔📫 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/moh-fahrul-hafidh-2192751b2/)ku ya.
+🤔 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/moh-fahrul-hafidh-2192751b2/)ku ya.
 
 <p align="left">
 <a href="https://github.com/h4rfu1">
