@@ -6,7 +6,7 @@ Perkenalkan nama saya **Moh. Fahrul Hafidh**. 😄
 
 👯 Saya bertanggung jawab pada pembuatan aplikasi terbaru salah satu anak perusahaannya : [Touta](https://touta.co.id).
 
-🤔 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/moh-fahrul-hafidh-2192751b2/)ku ya.
+🤔 Jika kamu tertarik untuk berkenalan denganku, silakan hubungi akun [Linkedin](https://www.linkedin.com/in/moh-fahrul-hafidh-2192751b2/)ku ya.
 
 <p align="left">
 <a href="https://github.com/h4rfu1">
