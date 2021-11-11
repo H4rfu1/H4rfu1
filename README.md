@@ -1,4 +1,5 @@
 # Halo semua! 👋
+![](https://visitor-badge.glitch.me/badge?page_id=H4rfu1.H4rfu1)
 
 Perkenalkan nama saya **Moh. Fahrul Hafidh**. 😄
 
